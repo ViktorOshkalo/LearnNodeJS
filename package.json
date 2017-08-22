@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ViktorOshkalo/LearnNodeJS/issues"
   },
-  "homepage": "https://github.com/ViktorOshkalo/LearnNodeJS#readme"
+  "homepage": "https://github.com/ViktorOshkalo/LearnNodeJS#readme",
+  "dependencies": {
+    "metasync": "^0.3.8"
+  }
 }
