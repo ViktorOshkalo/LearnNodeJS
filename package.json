@@ -1,0 +1,24 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "description": "'learn js'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorOshkalo/LearnNodeJS.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "js"
+  ],
+  "author": "Viktor Oshkalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorOshkalo/LearnNodeJS/issues"
+  },
+  "homepage": "https://github.com/ViktorOshkalo/LearnNodeJS#readme"
+}
